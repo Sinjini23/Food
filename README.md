@@ -22,7 +22,8 @@ To view the website locally, simply open the `index.html` file in a web browser.
 ## Contributing
 If you'd like to contribute to the development of this website, feel free to fork this repository, make your changes, and submit a pull request.
 ## License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgements
 
 - The website template and design were created by Sinjini Saha.
